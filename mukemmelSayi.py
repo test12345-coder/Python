@@ -1,7 +1,7 @@
 '''
 Mükemmel sayı, sayılar teorisinde, kendisi hariç pozitif tam bölenlerinin toplamı 
 kendisine eşit olan sayı. Diğer bir ifadeyle, bir mükemmel sayı, bütün pozitif tam 
-bölenlerinin toplamının yarısına eşittir.
+bölenlerinin toplamının yarısına eşittir. (Wikipedia)
 '''
 
 def perfectNum(number):
